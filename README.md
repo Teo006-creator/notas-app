@@ -133,6 +133,8 @@ flutter build apk --release
 | Estado | StatefulWidget (setState) |
 | Diseño | Material Design 3 |
 | Control | PageController |
+| Entorno | Arch Linux |
+| SO Desarrollo | Arch Linux |
 
 ## Licencia
 
