@@ -94,10 +94,12 @@ export ANDROID_SDK_ROOT="/opt/android-sdk"
 flutter config --jdk-dir=/usr/lib/jvm/java-17-openjdk
 ```
 
-### 4. Ejecutar en Linux/Desktop
+### 4. Ejecutar la Aplicación
 
 ```bash
-flutter run
+flutter run                    # Linux (ya configurado)
+flutter run -d windows       # Windows
+flutter run -d macos        # macOS
 ```
 
 ### 5. Compilar APK de Debug
